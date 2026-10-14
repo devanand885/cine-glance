@@ -5,7 +5,7 @@ An all-in-one, single-screen movie intelligence dashboard. Type in any movie nam
 Built entirely using **Google Antigravity** and powered by the **TMDb API**.
 
 ## 🚀 Live Demo
-> 💡 *Tip: Add your deployed Vercel/Netlify link here later!*
+Will be ready soon
 
 ## ✨ Features
 * 🔍 **Smart Search:** Instant autocomplete suggestions as you type.
